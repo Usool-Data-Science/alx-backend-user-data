@@ -1,7 +1,3 @@
-# Non related folders
-*0x00-personal_data*
-*0x03-user_authentication_service*
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
